@@ -1,0 +1,23 @@
+.main-body {
+    width: 100%;
+    height: auto;
+    display: block;
+    min-height: 400px;
+}
+
+header {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    font-size: 19px;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background: rgba(0, 0, 0, 0.1);
+}

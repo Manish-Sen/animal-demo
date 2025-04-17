@@ -1,0 +1,8 @@
+<div *ngIf="animal?.id">
+    <img [src]="animal.image" alt="{{ animal?.name }}">
+    <h2>{{ animal.name }}</h2>
+    <p>{{ animal.description }}</p>
+    <p>Breed: {{ animal.breed }} | Age: {{ animal.age }} | Gender: {{ animal.gender }}</p>
+    <button (click)="adoptAnimal()" *ngIf="!isAdopted">Adopt Me!</button>
+    <p *ngIf="isAdopted">You have adopted {{ animal.name }}!</p>
+  </div>
