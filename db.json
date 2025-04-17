@@ -1,0 +1,76 @@
+{
+    "animals": [
+      {
+        "id": 1,
+        "name": "Mittens",
+        "breed": "Tabby",
+        "gender": "Female",
+        "type": "Cat",
+        "age": 2,
+        "image": "/img/cat-1.jpg",
+        "description": "Mittens is a sweet and playful cat.",
+        "medicalNotes": "Healthy and vaccinated.",
+        "additionalImages": ["public/img/cat-1.jpg"]
+      },
+      {
+        "id": 2,
+        "name": "Rex",
+        "breed": "Labrador",
+        "gender": "Male",
+        "type": "Dog",
+        "age": 3,
+        "image": "/img/dog-1.png",
+        "description": "Rex is a friendly and active dog.",
+        "medicalNotes": "Healthy and neutered.",
+        "additionalImages": ["public/img/cat-1.jpg"]
+      },
+      {
+        "id": 3,
+        "name": "Tittens",
+        "breed": "Tabby",
+        "gender": "Female",
+        "type": "Cat",
+        "age": 2,
+        "image": "/img/cat-1.jpg",
+        "description": "tittens is a sweet and playful cat.",
+        "medicalNotes": "Healthy and vaccinated.",
+        "additionalImages": ["public/img/cat-1.jpg"]
+      },
+      {
+        "id": 4,
+        "name": "Tommy",
+        "breed": "Labrador",
+        "gender": "Male",
+        "type": "Dog",
+        "age": 3,
+        "image": "/img/dog-1.png",
+        "description": "Tommy is a friendly and active dog.",
+        "medicalNotes": "Healthy and neutered.",
+        "additionalImages": ["public/img/cat-1.jpg"]
+      },
+      {
+        "id": 5,
+        "name": "Doggy",
+        "breed": "Tabby",
+        "gender": "Female",
+        "type": "Cat",
+        "age": 2,
+        "image": "/img/cat-1.jpg",
+        "description": "Doggy is a sweet and playful cat.",
+        "medicalNotes": "Healthy and vaccinated.",
+        "additionalImages": ["public/img/cat-1.jpg"]
+      },
+      {
+        "id": 6,
+        "name": "vax",
+        "breed": "Labrador",
+        "gender": "Male",
+        "type": "Dog",
+        "age": 3,
+        "image": "/img/dog-1.png",
+        "description": "vax is a friendly and active dog.",
+        "medicalNotes": "Healthy and neutered.",
+        "additionalImages": ["public/img/cat-1.jpg"]
+      }
+    ]
+  }
